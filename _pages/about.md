@@ -13,22 +13,12 @@ Currently, I'm a second-year PhD student at [Columbia IEOR](https://ieor.columbi
 
 Feel free to reach out at jz3824 (at) columbia (dot) edu.
 
----
 
 ## 🔹 Current Position
 
-**PhD Student** — *[Department of Industrial Engineering and Operations Research, Columbia University](https://ieor.columbia.edu/)*
+**PhD Student** — *[Columbia IEOR](https://ieor.columbia.edu/)*
 📍 New York, NY, USA | 🗓️ *Sep 2024 – Present*  
-<!-- **Description:**  
-- Briefly describe your role and focus (1–2 sentences).
-- Highlight major responsibilities, tools, or technologies used.  
-- Emphasize impact (e.g., “Improved X by Y%”, “Developed tool used by Z users”).
 
-**Key Projects:**
-- 🚀 **[Project Name]** — short description of what it does and your contribution.
-- 🧠 **[Another Project]** — short description. -->
-
----
 
 ## 🔹 Internships
 
@@ -39,15 +29,11 @@ Feel free to reach out at jz3824 (at) columbia (dot) edu.
 
 - Developed theories on the geometry of the sensor network localization problem, establishing the foundation for a co-authored [research paper](https://arxiv.org/abs/2308.02278) (with Mingyu Lei and Prof. Yinyu Ye).
 
----
-
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Julia, Matlab, LaTeX  
 **Frameworks:** PyTorch, Pandas, NumPy, SciPy  
 **Areas:** Machine Learning, Optimization
-
----
 
 ## 📚 Education
 
@@ -55,8 +41,6 @@ Feel free to reach out at jz3824 (at) columbia (dot) edu.
 🗓️ *Sep 2020 – Jun 2024*
 
 - Thesis: Accelerated Gradient Descent with Long Step-size (Advisor: Prof. Jingwei Liang)
-
----
 
 ## 👨‍🏫 Teaching Experience
 
