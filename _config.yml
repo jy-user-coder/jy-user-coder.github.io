@@ -27,10 +27,10 @@ author:
   name             : "Jiayu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Columbia IEOR"
-  location         : "New York, NY, USA"
-  employer         : "Columbia University"
+  location         : # "New York, NY, USA"
+  employer         : # "Columbia University"
   uri              : # URL
-  email            : "jz3824@columbia.edu" 
+  email            : # "jz3824@columbia.edu" 
 
   # Academic websites
   academia         : # URL
