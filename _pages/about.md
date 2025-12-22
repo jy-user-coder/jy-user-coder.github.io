@@ -16,4 +16,5 @@ Currently, I'm a second-year PhD student at [Columbia IEOR](https://ieor.columbi
 *Office:* 345, 500 W 120th St, New York, NY 10027, USA. 
 
 *Office Hours Location:* Mudd 301.
+
 ---
