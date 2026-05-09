@@ -9,13 +9,11 @@ redirect_from:
 
 Hello, my name is Jiayu Zhang. Welcome to my homepage!
 
-I'm a second-year PhD student at [Columbia IEOR](https://ieor.columbia.edu/). My research interests include optimization for machine learning, nonconvex optimization, and continuous optimization. Before joining Columbia, I received a B.S. in Mathematics from Shanghai Jiao Tong University. 
+I'm a second-year PhD student at [Columbia IEOR](https://ieor.columbia.edu/). My research interests include optimization for machine learning, stochastic optimization, and nonconvex optimization. Before joining Columbia, I received a B.S. in Mathematics from Shanghai Jiao Tong University. 
 
 **Email:** jz3824 (at) columbia (dot) edu.
 
 **Office:** Room 345, Mudd Building, 500 W 120th St, New York, NY 10027, USA. 
-
-**Office Hours Location:** Mudd 301.
 
 ## News
 
