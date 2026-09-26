@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, my name is Jiayu Zhang. Welcome to my homepage!
 
-I'm a second-year PhD student at [Columbia IEOR](https://ieor.columbia.edu/). My research interests include optimization for machine learning, stochastic optimization, and nonconvex optimization. Before joining Columbia, I received a B.S. in Mathematics from Shanghai Jiao Tong University. 
+I'm a third-year PhD student at [Columbia IEOR](https://ieor.columbia.edu/). My research interests include optimization for machine learning, stochastic optimization, and nonconvex optimization. Before joining Columbia, I received a B.S. in Mathematics from Shanghai Jiao Tong University. 
 
 **Email:** jz3824 (at) columbia (dot) edu.
 
