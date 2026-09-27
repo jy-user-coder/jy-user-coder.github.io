@@ -17,6 +17,8 @@ I'm a third-year PhD student at [Columbia IEOR](https://ieor.columbia.edu/). My 
 
 ## News
 
+**Sep 2025** &nbsp;&nbsp;&nbsp;&nbsp; Two papers on arXiv: [2609.13677](https://arxiv.org/abs/2609.13677) with Lexiao Lai and Tianyi Lin, [2605.18528](https://arxiv.org/abs/2605.18528) with Tianyi Lin.
+
 **Nov 2025** &nbsp;&nbsp;&nbsp;&nbsp; The paper, Non-convex self-concordant functions: Practical algorithms and complexity analysis, coauthored with Donald Goldfarb, Lexiao Lai, and Tianyi Lin was on [arxiv:2511.15019](https://arxiv.org/abs/2511.15019).
 
 **Oct 2025** &nbsp;&nbsp;&nbsp;&nbsp; I received my master's degree from Columbia University.
